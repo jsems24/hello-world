@@ -1,6 +1,6 @@
 # hello-world
 
-## I am trying to make a LINE bot
+## Creating a LINE bot
 Need bot to:
 - read text from group chat
 - trigger an action when someone sends the text 'all'
